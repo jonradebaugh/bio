@@ -22,3 +22,7 @@ Experienced software developer, systems integrator.
 ## References
 
 [Technical video example, Talend ETL](https://youtu.be/525Sgwd-9o8)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=525Sgwd-9o8
+" target="_blank"><img src="http://img.youtube.com/vi/525Sgwd-9o8/0.jpg" 
+alt="Basic ETL with Talend" width="240" height="180" border="10" /></a>
