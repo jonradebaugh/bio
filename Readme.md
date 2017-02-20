@@ -7,6 +7,7 @@ Experienced software developer, systems integrator.
 - Web services, APIs, REST, [Hypertext](https://en.wikipedia.org/wiki/HATEOAS)
 - Continous integration and testing, Agile
 - Microservices architectures, virtualization, containerization, immutable machines
+- Security, authentication schemes, identity providers, bearer tokens, JWT
 - Workflow orchestration, BPEL, queues, AWS, (e.g. SQS, SMS), Lambda architectures
 - Documentation, code and services documentation systems
 - Databases, document databases, graph, and key-value stores
