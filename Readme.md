@@ -1,5 +1,7 @@
 # Jon Radebaugh
 
+[boo!](./avatar.jpg)
+
 Experienced software developer, systems integrator.
 
 ## Interests
