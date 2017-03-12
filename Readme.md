@@ -1,6 +1,8 @@
 # Jon Radebaugh
 
-Experienced software developer, systems integrator. 
+Experienced software developer, systems integrator.
+
+:octocat: :octocat: :octocat: :octocat: :octocat: 
 
 ## Interests
 
