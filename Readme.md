@@ -6,14 +6,14 @@ Experienced software developer, systems integrator.
 
 - Web services, APIs, REST, [Hypertext](https://en.wikipedia.org/wiki/HATEOAS)
 - Continous integration and testing, Agile
-- Microservices architectures, virtualization, containerization, immutable machines
-- Security, authentication schemes, identity providers, bearer tokens, JWT
-- Workflow orchestration, BPEL, queues, AWS, (e.g. SQS, SMS), Lambda architectures
+- Microservices architectures
+- Authentication and authorization schemes, bearer tokens, JWT
+- Workflow orchestration, queues, AWS, (e.g. SQS, SMS), Lambda architectures
 - Documentation, code and services documentation systems
 - Databases, document databases, graph, and key-value stores
 - Content management, curation systems 
 - Web development, publishing for the Web
-- Metadata, analytics, search, e.g. structured, faceted with Apache Solr
+- Metadata, analytics, faceted search with Apache Solr
 
 ## Contact
 
