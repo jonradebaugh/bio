@@ -1,6 +1,6 @@
 # Jon Radebaugh
 
-![boo!](./avatar.jpg)
+![boo!](./avatar.jpeg)
 
 Experienced software developer, systems integrator.
 
