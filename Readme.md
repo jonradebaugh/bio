@@ -16,7 +16,7 @@ Experienced software developer, systems integrator.
 - Content management, curation systems 
 - Web development, publishing for the Web
 - Metadata, analytics, faceted search with Apache Solr
-- [:octocat::octocat::octocat:](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+- [:link::octocat::octocat::octocat::link:](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 - :snowflake: :snowboarder: :snowflake:
 
 ## Contact
