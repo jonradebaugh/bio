@@ -31,4 +31,4 @@ Experienced software developer, systems integrator.
 " target="_blank"><img src="http://img.youtube.com/vi/525Sgwd-9o8/2.jpg" 
 alt="Basic ETL with Talend" width="240" height="180" border="10" /></a>
 
-![chart](./The-trend-is-not-destiny-1.png)
+![unicorn](https://goo.gl/photos/U3JeqVE6gAF6tkLE9)
