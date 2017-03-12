@@ -2,8 +2,6 @@
 
 Experienced software developer, systems integrator.
 
-:octocat: :octocat: :octocat: :octocat: :octocat: 
-
 ## Interests
 
 - Web services, APIs, REST, [Hypertext](https://en.wikipedia.org/wiki/HATEOAS)
@@ -16,6 +14,8 @@ Experienced software developer, systems integrator.
 - Content management, curation systems 
 - Web development, publishing for the Web
 - Metadata, analytics, faceted search with Apache Solr
+- :octocat:
+- :snowflake: :snowboarder: :snowflake:
 
 ## Contact
 
